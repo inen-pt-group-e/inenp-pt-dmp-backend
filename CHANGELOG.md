@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.2.0](https://github.com/inen-pt-group-e/inenp-pt-dmp-backend/compare/v1.1.2...v1.2.0) (2026-06-03)
+
+
+### Features
+
+* [#1](https://github.com/inen-pt-group-e/inenp-pt-dmp-backend/issues/1) fix template path ([02ec23e](https://github.com/inen-pt-group-e/inenp-pt-dmp-backend/commit/02ec23ee9b3aedde3789f088052c294c5be8935b))
+* add initial backend code [#3](https://github.com/inen-pt-group-e/inenp-pt-dmp-backend/issues/3) ([7b86cd0](https://github.com/inen-pt-group-e/inenp-pt-dmp-backend/commit/7b86cd009a32a056eadf1e002dc969c039ff3dc2))
+* added issue template [#1](https://github.com/inen-pt-group-e/inenp-pt-dmp-backend/issues/1) ([2bcc07e](https://github.com/inen-pt-group-e/inenp-pt-dmp-backend/commit/2bcc07e7d0a988e6bdbc4e0ace97d31ad2b02ece))
+* updated README [#1](https://github.com/inen-pt-group-e/inenp-pt-dmp-backend/issues/1) ([141817d](https://github.com/inen-pt-group-e/inenp-pt-dmp-backend/commit/141817d2812d28a02164dae29e7eaaaa3d973e46))
+
+
+### Bug Fixes
+
+* fix Unit Tests pipeline [#5](https://github.com/inen-pt-group-e/inenp-pt-dmp-backend/issues/5) ([d50ceec](https://github.com/inen-pt-group-e/inenp-pt-dmp-backend/commit/d50ceec328f1d47defc09757ea60194b54e608cc))
+* merge main branch" ([a8d6a19](https://github.com/inen-pt-group-e/inenp-pt-dmp-backend/commit/a8d6a19f5696b9507c245bbd7f970a1acc9b173f))
+
 ## [1.1.2](https://github.com/muhlba91/hochschule-burgenland-bswe-ws2024-2at-backend/compare/v1.1.1...v1.1.2) (2025-03-13)
 
 
